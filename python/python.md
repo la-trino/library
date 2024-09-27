@@ -6,4 +6,7 @@ Python tiene una gran lista de tipos de valores  o expresiones. Cuando uno ingre
   - string (texto)
 - condicional (lógica booleana)
   - bool. Aquí los valores posibles son _true/false_.
+- listas
+   - list
+   - 
   
